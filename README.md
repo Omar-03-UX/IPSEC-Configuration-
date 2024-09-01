@@ -1,8 +1,6 @@
 
 <h1>IPSEC-Configuration Lab </h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 In this lab, we will build a secure network configuration using a Palo Alto firewall, FortiGate firewall, and Layer 3 switching. We will establish a VPN connection between the Palo Alto and FortiGate firewalls, enable NAT for specific traffic, and control internet access.
 
